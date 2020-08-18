@@ -1,0 +1,66 @@
+body{
+
+    color: #f8f9fa;
+  
+  background-color:#ff4c68;
+}
+.navbar-brand{
+  color:#e6dfdf;
+
+}
+
+a{
+  color:#f8f9fa;
+
+}
+.h{
+  font-family: 'Montserrat-Black', sans-serif;
+
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+
+body {
+  font-family: 'Montserrat', sans-serif;
+
+  background-color:#ff4c68;
+}
+
+
+a{
+
+  font-family: 'Montserrat', sans-serif;
+  color:#white;
+
+}
+
+.container-fluid{
+padding: 3% 15%;
+}
+.navbar-brand{
+font-family: 'ubuntu', sans-serif;
+font-size: 2.5rem;
+font-weight: bold;
+}
+.navbar{
+  padding: 4.5rem;
+}
+
+
+
+hr {
+  border-style:none;
+  border-top-style: line;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+.h{
+font-family: 'Montez', cursive;
+font-color:#fff;
+
+font-size: 3rem;
+line-height: 1.5;
+}
